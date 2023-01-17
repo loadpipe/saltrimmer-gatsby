@@ -1,57 +1,46 @@
 ---
 templateKey: index-page
 title: Rim Your Glasses With Salt
-image: /img/home-jumbotron.jpg
+image: /img/coffee-g9a24481bf_1280.jpg
 heading: The ultimate site for glass rimmer enthusiasts
 subheading: Find the secrets of using a salt rimmer for cocktails
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Why Use a Salt Rimmer?
+  description: A salt rimmer is a small device that is used to apply salt to the
+    rim of a glass, typically used for cocktails. There are several reasons why
+    a salt rimmer may be used, each of which can enhance the overall drinking
+    experience.
+description: A salt rimmer is a simple yet effective tool that can enhance the
+  overall drinking experience
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: A salt rimming can add flavor to a drink. Salt is a natural flavor
+        enhancer and when applied to the rim of a glass, it can provide a subtle
+        salty flavor that complements the taste of the drink. This can make a
+        drink more enjoyable and satisfying to drink.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: a salt rimmer can help keep a drink chilled. When salt is applied to the
+        rim of a glass, it absorbs the drink's condensation, which helps to keep
+        the drink colder for longer. This can be especially useful for drinks
+        that are served over ice, as it can help to prevent the drink from
+        becoming watery and dilute.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: " a salt rim can add visual appeal to a drink. The sparkling white salt on
+        the rim of a glass can make a drink appear more visually appealing and
+        can be used to add a decorative element to a drink. This can make a
+        drink more attractive and can help to create a more memorable drinking
+        experience."
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        a salt rim can balance the sweetness of a drink. Many cocktails contain
+        sweet ingredients such as syrups and liqueurs, which can make a drink
+        overly sweet and cloying. A salt rim can help to balance out the
+        sweetness of a drink, making it more palatable and enjoyable to drink.
+  heading: Reasons to Use a Salt Rimmer
+  description: Need convincing? If so, we got your answers
 main:
-  heading: Great coffee with no compromises
+  heading: Great cocktails with no compromises
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
